@@ -1,0 +1,1 @@
+#### Electricity price prediction for CAISO market. There are several models that performed well. The loss function I used is MAPE.
